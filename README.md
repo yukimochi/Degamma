@@ -1,2 +1,10 @@
-# Degamma
-A shader for Web Panel of VRChat. Apply this shader to the duplicated screen material when the Web Panel seems to be bright (whitish).
+# WebPanel Shaders
+
+Gamma optimized shaders for VRChat WebPanel.
+
+Inspired by [UUUPA/Degamma](https://github.com/UUUPA/Degamma).
+
+## Table of Content
+
+ - Standard
+ - Unlit
